@@ -16,7 +16,7 @@ I recently graduated with a Bachelor's degree in Information Technology. I have 
 
 ## Connect with Me
 Feel free to reach out or connect with me:
-- [LinkedIn](www.linkedin.com/in/maazpro)
-- [Email](mzit3116@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/maazpro)
+- [Email](mailto:mzit3116@gmail.com)
 
 Thanks for visiting my profile! I'm looking forward to collaborating and learning more in the tech field.
